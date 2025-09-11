@@ -18,8 +18,10 @@ body {
   text-decoration: none;
   margin-left: 145px;
   margin-top: 38px;
+  font-family: "Raleway" serif;
+  size: 26px;
 }
-
+ 
 .logo span {
   color: #2196F3;
 }
@@ -36,6 +38,7 @@ body {
   width: 281px;
   height: 16px;
   margin-top: 25px;
+  font-family: "Roboto" serif;
 }
 
 .menu a {
@@ -59,6 +62,8 @@ body {
 .contact {
   margin-top: 38px;
   margin-right: 100px;
+  font-family: "Roboto" serif;
+  
 }
 
 .blackBackground {
@@ -71,6 +76,7 @@ body {
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  font-family: "Roboto" serif;
 }
 
 .blackBackground button {
@@ -80,6 +86,7 @@ body {
   border: none;
   cursor: pointer;
   margin-top: 20px;
+  font-family: "Roboto" serif;
 }
 
 .page1 {
@@ -101,6 +108,7 @@ body {
   text-decoration: none;
   border-radius: 4px;
   position: absolute;
+  font-family: "Roboto" serif;
 }
 
 table {
@@ -110,6 +118,7 @@ table {
     left: 215px;
     margin: 0 auto;
     margin-top: 96px;
+   font-family: "Roboto" serif;
 }
 
 .page2 {
@@ -228,6 +237,7 @@ table {
   text-decoration: none;
   margin-left: 215px;
   margin-top: 60px;
+  font-family: "Raleway" serif;
 }
 
 .end {
